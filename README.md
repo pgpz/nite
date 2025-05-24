@@ -9,7 +9,7 @@
 sudo pacman -S figlet
 ```
 ```
-pip install pyfiglet
+pip install python-pyfiglet
 
 ``` 
 
@@ -32,8 +32,16 @@ pip install pyfiglet
 ---------------------------------------------------------------------------------------
 
 ``` nite --figlet (word) ``` create a figlet of any word
+
+
 ``` nite --ascii (file dir) ``` generate ascii image in your terminal
+
+
 ``` nite --rainbow (word) ``` create a rainbow figlet of any word
+
+
 ``` nite --figlet-font (font) (word) ``` create a figlet with a font from the list
+
+
 ``` nite --figlet-list-fonts ``` list figlet fonts
 
