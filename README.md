@@ -24,7 +24,7 @@ pip install python-pyfiglet
 
 
 
-<h1>commands inside of planet finder</h1>
+<h1>commands inside of nite</h1>
 
 
 ``` nite --help ``` (to list all commands and what they do inside of terminal)
