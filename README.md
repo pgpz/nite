@@ -17,7 +17,7 @@ pip install python-pyfiglet
 
 <h1> v manual install  v </h1>
 
-``` git clone https://aur.archlinux.org/nite.git ```
+``` git clone https://github.com/pgpz/nite ```
 ``` cd nite ```
 ``` makepkg -si ```
 
